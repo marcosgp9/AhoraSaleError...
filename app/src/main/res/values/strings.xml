@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">CameraApp</string>
     <string name="action_settings">Settings</string>
-    <string name="botonPhoto">Hacer foto.</string>
+    <string name="botonPhoto">Take a picture.</string>
 </resources>
